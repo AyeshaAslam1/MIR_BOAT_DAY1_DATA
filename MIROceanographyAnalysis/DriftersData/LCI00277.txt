@@ -1,4 +1,4 @@
-Position time (UTC),Reception time (UTC),Latitude (°),Longitude (°),Speed (m/s),Course (°),Status,Battery (V),Temperature (°C)
+Position time (UTC),Reception time (UTC),Latitude,Longitude,Speed (m/s),Course,Status,Battery,Temperature
 2022-10-12 07:20:00,2022-10-12 07:20:19,43.1038,5.91181,3.96111,101.4,1,4.108,15.8
 2022-10-12 07:30:00,2022-10-12 07:30:12,43.08799,5.92791,3.63611,86.5,1,4.107,16.8
 2022-10-12 07:40:00,2022-10-12 07:40:22,43.08133,5.95918,4.63611,119.5,1,4.105,16.9
